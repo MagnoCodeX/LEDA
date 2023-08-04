@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-28T11:11:08.945-0300</date>
+  <logger>FILIPE MAGNO ALVES PAIVA</logger>
+  <level>FINE</level>
+  <message>File 122110518-FILIPE MAGNO ALVES PAIVA.zip was received. It was sent by FILIPE MAGNO ALVES PAIVA from IP 150.165.42.180 at 28-07-2023 11*11*08</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-08-02T10:29:35.734-0300</date>
+  <logger>FILIPE MAGNO ALVES PAIVA</logger>
+  <level>FINE</level>
+  <message>File 122110518-FILIPE MAGNO ALVES PAIVA.zip was received. It was sent by FILIPE MAGNO ALVES PAIVA from IP 192.168.15.13 at 02-08-2023 10*29*35</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-08-03T20:59:20.220-0300</date>
+  <logger>FILIPE MAGNO ALVES PAIVA</logger>
+  <level>FINE</level>
+  <message>File 122110518-FILIPE MAGNO ALVES PAIVA.zip was received. It was sent by FILIPE MAGNO ALVES PAIVA from IP 192.168.15.13 at 03-08-2023 20*59*20</message>
+</record>
